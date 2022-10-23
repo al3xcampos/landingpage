@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.encabezado{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.box{
+    
+    height: 50px;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    
+}
+.boton1{
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(255, 115, 0);
+}
+.boton2{
+    border: 2px solid black;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(6,6,100);
+}
+.nombre{
+    color: rgb(6, 6, 100);
+}
+.jumbotron1{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(6, 6, 100);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.caja{
+    width: 400px;
+    height: 300px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.Formulario{
+    width: 200px;
+    height: 300px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    align-items:center;
+    
+    
+}
+.logofb{
+    width: 200px;
+    height: 260px;
+}
+.botonvamos{
+    width: 175px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+.jumbotron2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.caja1{
+    width: 400px;
+    height: 300px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.Trigger4{
+    font-size: 25px;
+}
+.Trigger5{
+    font-size: 40px;}
